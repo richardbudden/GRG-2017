@@ -1,2 +1,2 @@
-# GRG-2018
-This is a Girls Robotics Event Webpage (2018)
+# GRG-20187
+This is a Girls Robotics Event Webpage (2017)
